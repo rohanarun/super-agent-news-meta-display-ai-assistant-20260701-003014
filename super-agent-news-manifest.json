@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[theverge.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUptdThEd081YlBDdWxTelRiWUdIUzRyVkd5ckw1anBRYWdtY0lwQ1BvWFE3TG5pRUJYZjlVTWU0cjlGSEhwT1YxcHhqMnpmUmplSkxCRHpNUzcxNXBON2JnWE9WbnhoX0E4eE1CWF9zUTNuemtLR1ljMXo0UTJsQ2ltVUFjTVp3QnpsbGszWS1rU1RiNkZjbQ)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3ZJN2JhZFFBT05ieXE1ck1uaWEzWlpBWURWNmFTX0xMVV9falNoZ3RwRlNGbmNVNlkyV1huSGFlOEN2WEtCTFpXLTNKd2hWZGdMN1N0c1BKOFFMUzZoajdaaXJuZFM1Wmdhak9sM2Z0eFVNOVdqZElobnVUUXFMOEMzR1dUaktwSGpBNFIzUHJQZXAyOHhj)",
+    "[wired.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBlcXhkUE5FOGtZcFE2Z2dyNGN1WTNVWFUzOUM5bEUxLUZzcGZvV19JVmhzcVA4alZjWTQ4WDdXc2dTZk1zRThhV0tCVUFrS3FxSGRfQkhncFFoUHBEVVMwU19fVzZwcnZraTVldENwalRkR3hxaThLcnNIR0YyT2M)",
+    "[inc.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkNYeEx3cWpMNUNENUQzNmtZZEtkb1RnRXJxQld2d2J0a2tMT2xLVkJmcUIycllmYzRQcmhzR25ITTZPUFBJLWYwQzJRUDVHNG9PenllRHpKR3h1eUZ1TzhnMEZXT05xUjZJWmpxa2gtTHZ5cDhIOURjTFhudVZQZm9Za1JPZ1BvTlJaTU02S2EwLW1pbTVfOWFnYWhvZXMtWEFRQlJwZUxvZXVocE1neGpyTW9ETGh4NUNqV2xIazJUTkZCRkdxbzJyVUprdEZQWHc)",
+    "[pcmag.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBXd2MtblBsSG9NVjNKMXJJQXgtRjN4LTc4bjNubVhJTlRvYWI4ZkpBSHZOcW4wWW56Z21mT3Rzck53TmZ5aTZqY0ZTNDYwQlhoOWtBZjRqQWpzazZQVl9sYTR1X0hicjJMVU1FZFk0blRMQQ)",
+    "[time.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFhpNHE1WklTbnVyR0tGR3c4OG1OdWxfeUJSQVZya1dTWXVzVnNQY3RSay1xQkZwc3hKRjMzblEwOVpiMXVhWHR4ZVJTUXdZRWl6dWQ5UUdxZGd1MDA1RUpMUV9LWTNnRWo1M0dCSlYtUnYyN2lqMFFzUXU2d0lET2wzdC1HeVlxR29BQzh1U1lRS0psREM0NmNsdURURUk)"
+  ],
+  "design_plan": "RNG(42)->hero media video asset; AIDA satisfied; hero math centered max-width 1120px; bento density proven via grid-auto-flow:dense; label sweep includes all competitors; button contrast checked (black/white pills).",
+  "generated_at": "2026-07-01T00:30:22.269223+00:00",
+  "headline": "Meta Display AI assistant \u2014 hands\u2011free actions that go beyond voice answers",
+  "site_brief": {
+    "audience": "people evaluating AI assistants for Meta smart glasses and display-style wearable workflows",
+    "canonical_url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Meta Display AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "Meta smart glasses AI assistant",
+      "Meta Display AI assistant",
+      "AI assistant for smart glasses",
+      "wearable AI agent computer use"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "meta-display-ai-assistant",
+    "title": "Meta Display AI assistant",
+    "use_case_intent": "show how Super can become the action layer for hands-free Meta Display workflows beyond simple voice answers"
+  },
+  "summary": "An indexable /use-cases/ page showing how Super becomes the action layer for Meta smart glasses and display-style wearables: seeing context, taking commands, and completing real computer workflows with a reusable computer-use cache. Includes workflows, comparisons, FAQ, schema, sibling links, and a cinematic Super-style design."
+}
